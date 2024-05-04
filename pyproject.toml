@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "test-changelog"
+version = "0.1.0"
+description = ""
+authors = ["skotnikov <n.skotnikov@cft.ru>"]
+readme = "README.md"
+packages = [{include = "test_changelog"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+auto-changelog = "^0.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
