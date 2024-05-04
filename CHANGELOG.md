@@ -11,3 +11,6 @@
 #### Fixes
 
 * (repo): add CHANGELOG.md
+#### Others
+
+* (repo): change CHANGELOG.md
