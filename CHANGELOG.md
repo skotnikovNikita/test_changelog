@@ -8,3 +8,6 @@
 * (repo): add pyproject.toml
 * (repo): add poetry.lock
 * (repo): add gitignore
+#### Fixes
+
+* (repo): add CHANGELOG.md
